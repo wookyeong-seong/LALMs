@@ -72,6 +72,18 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **MusicLM: Generating Music From Text** [2023].<br>*Andrea Agostinelli, Timo I. Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam Roberts, Marco Tagliasacchi, Matt Sharifi, Neil Zeghidour, Christian Frank*<br>[[PDF](https://arxiv.org/abs/2301.11325)]<br>
 **SeamlessM4T—Massively Multilingual & Multimodal Machine Translation** [2023].<br>*Seamless Communication, Loic Barrault, Andy Chung, David Dale, Ning Dong (AI), Paul-Ambroise Duquenne, Hady Elsahar et. al.*<br>[[PDF](https://ai.meta.com/research/publications/seamless-m4t/)]<br>
 **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [2023].<br>*Changli Tang, Wenyi Yu, Guangzhi Sun, Xiaozhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang*<br>[[PDF](https://arxiv.org/abs/2310.13289)][[Github](https://github.com/bytedance/SALMONN)]<br>
+**Pengi: An Audio Language Model for Audio Tasks** [2023].<br>
+[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/3a2e5889b4bbef997ddb13b55d5acf77-Paper-Conference.pdf)]
+**AIR-Bench: The First Benchmark for Evaluating LALMs in Audio Signal Understanding** [2023].<br>
+[[PDF](https://github.com/OFA-Sys/AIR-Bench?utm_source=chatgpt.com)]<br>
+**GAMA: Advanced Audio Understanding and Complex Reasoning in LALMs** [2024].<br>
+[[PDF](https://github.com/Sreyan88/GAMA?utm_source=chatgpt.com)]<br>  
+**Qwen2-Audio: A Large Audio-Language Model for Diverse Audio Signal Processing** [2024].<br>
+[[PDF](https://github.com/QwenLM/Qwen2-Audio?utm_source=chatgpt.com)]<br> 
+**Llama 3.2: Open-Source Advancements in LLMs** [2024].<br>
+[[PDF](https://en.wikipedia.org/wiki/Llama_%28language_model%29?utm_source=chatgpt.com)]<br> 
+**vLLM: Efficient and High-Performance Inference Library** [2024].<br>
+[[PDF](https://github.com/vllm-project/vllm?utm_source=chatgpt.com)]<br> 
 <br>
 
 ## Automatic Speech Recognition (ASR)
