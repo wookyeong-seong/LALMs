@@ -77,7 +77,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 **AIR-Bench: The First Benchmark for Evaluating LALMs in Audio Signal Understanding** [2023].<br>
 [[PDF](https://github.com/OFA-Sys/AIR-Bench?utm_source=chatgpt.com)]<br>
 **GAMA: Advanced Audio Understanding and Complex Reasoning in LALMs** [2024].<br>
-[[PDF](https://github.com/Sreyan88/GAMA?utm_source=chatgpt.com)]<br>  
+[[PDF](https://github.com/Sreyan88/GAMA?utm_source=chatgpt.com)]<br>
 **Qwen2-Audio: A Large Audio-Language Model for Diverse Audio Signal Processing** [2024].<br>
 [[PDF](https://github.com/QwenLM/Qwen2-Audio?utm_source=chatgpt.com)]<br> 
 **Llama 3.2: Open-Source Advancements in LLMs** [2024].<br>
